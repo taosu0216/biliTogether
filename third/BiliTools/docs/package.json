@@ -1,0 +1,14 @@
+{
+  "name": "@btjawa/bilitools-docs",
+  "private": "true",
+  "scripts": {
+    "dev": "vitepress dev .",
+    "build": "vitepress build .",
+    "preview": "vitepress preview ."
+  },
+  "type": "module",
+  "devDependencies": {
+    "@fortawesome/fontawesome-free": "^7.0.0",
+    "vitepress": "^2.0.0-alpha.12"
+  }
+}
